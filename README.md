@@ -4,9 +4,11 @@
 
 Submitted by: **Juseong (Joe) Kim**
 
-Time spent: **10** hours spent in total
+Time spent: **11** hours spent in total
 
-Link to project: [Click here](https://jazzy-memories.glitch.me)
+Link to project:  
+[Code](https://glitch.com/edit/#!/jazzy-memories)  
+[Live site](https://jazzy-memories.glitch.me)
 
 ## Required Functionality
 
