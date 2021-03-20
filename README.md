@@ -44,11 +44,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:  
   
-**Part 1**  
-![](https://i.imgur.com/ODrnZEH.gif)
-
-**Part 2**  
-![](https://i.imgur.com/o9nhjrx.gif)
+![](https://i.imgur.com/bFwJMyj.gif)
 
 
 ## Reflection Questions
