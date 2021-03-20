@@ -1,0 +1,111 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: verdana, arial, sans-serif;
+  margin: 2em;
+  background-color: #f5f0e1;
+  color: #1e3d59;
+}
+
+h1 {
+  color: #1e3d59;
+  font-family: verdana, arial, sans-serif;
+}
+
+#bonus {
+  font-size:small;
+}
+
+button {
+  padding: 10px;
+  border: none;
+}
+
+#gameButtonArea > button {
+  width: 140px;
+  height: 140px;
+  margin: 6px;
+  border-radius: 50%;
+
+}
+
+.hidden {
+  display: none;
+}
+
+#unmuteBtn{
+  padding:5px;
+  color:#904e55;
+  background:#ffefd3;
+  border: 2px solid #904e55;
+  border-radius:10%;
+  margin:20px 10px 10px 10px;
+}
+
+#startBtn{
+  padding:10px;
+  border: 2px solid #904e5590;
+  border-radius:20%;
+  background:#904e55;
+  color:#ffefd3;
+}
+#stopBtn{
+  padding:10px;
+  border-radius:20%;
+  color:#904e55;
+  border: 2px solid #904e55;
+  background:#ffefd3;
+}
+
+#button1 {
+  background: #381d2a90;
+}
+#button1:active,
+#button1.lit {
+  background: linear-gradient(125deg, #d4cfc9, #d45769);
+}
+
+#button2 {
+  background: #3e6990;
+}
+#button2:active,
+#button2.lit {
+  background: linear-gradient(125deg, #d4cfc9, #d45769);
+}
+
+#button3 {
+  background: #aabd8c;
+}
+#button3:active,
+#button3.lit {
+  background: linear-gradient(125deg, #d4cfc9, #d45769);
+}
+
+#button4 {
+  background: #e49ab0;
+}
+#button4:active,
+#button4.lit {
+  background: linear-gradient(125deg, #d4cfc9, #d45769);
+}
+
+#button5 {
+  background: #f39b6d;
+}
+#button5:active,
+#button5.lit {
+  background: linear-gradient(125deg, #d4cfc9, #d45769);
+}
+
+#button6 {
+  background: #c6caed;
+}
+#button6:active,
+#button6.lit {
+  background: linear-gradient(125deg, #d4cfc9, #d45769);
+  border:none;
+}
+
+*:focus {
+    outline: none;
+}
