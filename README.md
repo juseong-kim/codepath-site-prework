@@ -39,7 +39,8 @@ The following **additional** features are implemented:
 - [:heavy_check_mark:] Body text updates based on whether or not the game is playing (e.g. 'click to play' -> 'click to quit').
 - [:heavy_check_mark:] "Try Again" message appears if player has more tries left.
 - [:heavy_check_mark:] Start and stop buttons have contrasting appearances.
-- [:heavy_check_mark:] Unmute button as a workaround for the Autoplay Policy implemented by browsers.
+- [:heavy_check_mark:] Unmute button as a workaround for the Autoplay Policy implemented by browsers.<sup>*</sup>  
+\* *note: unmute button ignores frequency map for some browsers*
 
 
 ## Video Walkthrough
